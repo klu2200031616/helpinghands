@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Cancel</title>
 </head>
 <body>
-
+<h1> The Payment Request is Cancelled</h1>
 </body>
 </html>
