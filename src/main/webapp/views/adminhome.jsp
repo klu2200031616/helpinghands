@@ -215,18 +215,12 @@
             <img src="https://cdn-icons-png.freepik.com/256/3045/3045670.png?semt=ais_hybrid" alt="Orders Icon">
             <div class="card-text">Pickups</div>
         </a>
-        <a href="viewallproducts.jsp" class="card">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVp984WQCSjmwNULzOqM7aO83a8k9HrwHksbhXEJ8qFKCeieTwboZut3QVAR7obhidVaI&usqp=CAU" alt="Products Icon">
-            <div class="card-text">Products</div>
-        </a>
+        
        <a href="/viewUsers" class="card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpjQCpBrLxLxbK42EXzN54pfgw1-Yzt721Dt4wlyu28L4H2c8hDw1D8NhQj7hij2xMRJo&usqp=CAU" alt="Artisans Icon">
             <div class="card-text">View Users</div>
         </a>
-        <a href="viewcustomers.jsp" class="card">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStAwYbeAXEUR9KdEOMhppqe05E3DsSaCARvab30P0GmKtiiTzdqvcrnxojWEov9I3QLiA&usqp=CAU" alt="Customers Icon">
-            <div class="card-text">View Customers</div>
-        </a>
+       
        <a href="/donation/add" class="card">
             <img src="https://cdn-icons-png.flaticon.com/512/4285/4285597.png" alt="Add Events Icon">
             <div class="card-text">Add Donation Drive</div>
