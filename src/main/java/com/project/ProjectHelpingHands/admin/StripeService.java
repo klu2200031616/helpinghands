@@ -45,8 +45,8 @@ public class StripeService {
         SessionCreateParams params = 
             SessionCreateParams.builder()
                 .setMode(SessionCreateParams.Mode.PAYMENT)
-                .setSuccessUrl("https://helpinghandsproject.up.railway.app/paymentSuccess")
-                .setCancelUrl("https://helpinghandsproject.up.railway.app/cancel")
+                .setSuccessUrl("https://helpinghandstsk.up.railway.app/paymentSuccess")
+                .setCancelUrl("https://helpinghandstsk.up.railway.app/cancel")
                 .addLineItem(lineItem)
                 .build();
 
